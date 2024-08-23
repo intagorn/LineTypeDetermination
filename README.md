@@ -27,7 +27,7 @@ The table below summarizes the conditions for determining the type of line forme
 
 | Condition | Description | Output |
 |-----------|-------------|--------|
-| \( x_1 = x_2 \) and \( y_1 = y_2 \) | The two points are identical. | Single Point (No Line) |
+| x1=x2 และ y1=y2 | The two points are identical. | Single Point (No Line) |
 | \( x_1 \neq x_2 \) and the slope > 0 | The line has a positive slope. | Positive Slope |
 | \( x_1 \neq x_2 \) and the slope < 0 | The line has a negative slope. | Negative Slope |
 | \( y_1 = y_2 \) and \( x_1 \neq x_2 \) | The line is parallel to the x-axis. | Horizontal Line |
