@@ -19,9 +19,7 @@ The program will output the type of line formed by the two points.
 
 To determine the slope of a line between two points, use the following equation:
 
-\[
-\text{slope} = \frac{y<sub>2</sub> - y<sub>1</sub>}{x<sub>2</sub> - x<sub>1</sub>}
-\]
+slope = (y2 - y1) / (x2 - x1)
 
 ## Conditions and Output
 
