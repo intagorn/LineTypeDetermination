@@ -4,9 +4,9 @@
 โปรแกรมจะแสดงผลลัพธ์เป็นหนึ่งในห้าประเภทด้านล่าง:
 * Positive Slope
 * Negative Slope
-* Horizontal Line (Parallel to the x-axis)
-* Vertical Line (Parallel to the y-axis)
-* Single Point (No Line)
+* Horizontal Line
+* Vertical Line
+* Single Point
 
 ##  Input
 รับข้อมูลเป็นจำนวนจริง (float ) 4 ค่า x<sub>1</sub>, y<sub>1</sub>, x<sub>2</sub>, y<sub>2</sub>
